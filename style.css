@@ -1,0 +1,69 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+/* Header and navigation styles */
+header {
+    background: #005792;
+    color: #fff;
+    padding-top: 20px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 5px;
+}
+
+/* Section styling */
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+/* Welcome section */
+#welcome {
+    background: #77d8d8;
+    padding: 20px;
+    color: #fff;
+}
+
+/* About section */
+#about {
+    background: #eee;
+}
+
+/* Contact section */
+#contact {
+    background: #d3d3d3;
+}
+
+/* Footer styling */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
